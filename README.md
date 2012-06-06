@@ -17,6 +17,8 @@ https://github.com/captainbrosset/packman/commit/eb96819612560dbec5df23b85e23264
 press 't' on the repo's home page, and start typing file names
 https://github.com/ariatemplates/ariatemplates/
 
+- line finder, press 'l' to jump to a line
+
 - download zip for a tag
 https://github.com/captainbrosset/packman/tags
 
@@ -25,3 +27,25 @@ https://github.com/captainbrosset/packman/compare/0.2.2...0.2.3
 
 - quick bookmark file/line
 https://github.com/ariatemplates/ariatemplates/blob/master/src/aria/widgets/form/AutoCompleteBean.js#L28
+
+- blame, review the whole history of the file, line by line
+https://github.com/jquery/jquery/blame/master/src/core.js
+
+- preview of README.md in every directory
+https://github.com/ariatemplates/ariatemplates/tree/master/src
+
+- bookmark to README.md headers
+https://github.com/ariatemplates/ariatemplates#aria-templates---javascript-framework
+
+- every git repository is also a svn repository (translating svn commands to git commands behind the scenes)
+
+- diff images
+
+- gist, share code snippets, embed them in websites, fork them ...
+https://gist.github.com/
+
+- @username into an issue or pull request subscribes this person to it (also works for teams)
+
+- Filter commit page by author
+https://github.com/bcharbonnier/minni/commits/master?author=captainbrosset
+
